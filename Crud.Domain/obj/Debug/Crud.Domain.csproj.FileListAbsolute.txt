@@ -1,0 +1,9 @@
+C:\Users\lmxDev\Documents\Visual Studio 2013\Projects\Crud\Crud.Domain\obj\Debug\Crud.Domain.csprojResolveAssemblyReference.cache
+C:\Users\lmxDev\Documents\Visual Studio 2013\Projects\Crud\Crud.Domain\bin\Debug\Crud.Domain.dll
+C:\Users\lmxDev\Documents\Visual Studio 2013\Projects\Crud\Crud.Domain\bin\Debug\Crud.Domain.pdb
+C:\Users\lmxDev\Documents\Visual Studio 2013\Projects\Crud\Crud.Domain\bin\Debug\Crud.Data.dll
+C:\Users\lmxDev\Documents\Visual Studio 2013\Projects\Crud\Crud.Domain\bin\Debug\Crud.Data.pdb
+C:\Users\lmxDev\Documents\Visual Studio 2013\Projects\Crud\Crud.Domain\obj\Debug\Crud.Domain.dll
+C:\Users\lmxDev\Documents\Visual Studio 2013\Projects\Crud\Crud.Domain\obj\Debug\Crud.Domain.pdb
+C:\Users\lmxDev\Documents\Visual Studio 2013\Projects\Crud\Crud.Domain\bin\Debug\EntityFramework.dll
+C:\Users\lmxDev\Documents\Visual Studio 2013\Projects\Crud\Crud.Domain\bin\Debug\EntityFramework.xml

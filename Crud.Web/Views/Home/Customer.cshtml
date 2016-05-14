@@ -1,0 +1,37 @@
+﻿
+@{
+
+}
+
+<div id="content" ng-controller="CustomerController">
+    <span ng-show="isViewLoading" class="viewLoading">
+        <img src="~/Content/images/ng-loader.gif" /> loading...
+    </span>
+    <div ng-class="result">{{message}}</div>
+    <hr />
+    <form name="frmCustomer" novalidate>
+        <div>
+            <input type="hidden" ng-model="customerModel.Id" name="cid" />
+        </div>
+        <div>
+            <label for="email">Customer Name</label>
+            <input type="text" ng-model="customerModel.Name" name="cname" placeholder="" required ng-minlength="4" ng-maxlength="14" />
+            <span class="error" ng-show="(frmCustomer.$dirty||submitted) && frmCustomer.cname.$error.required">Customer name is Required</span>
+            <span class="error" ng-show="frmCustomer.$dirty && frmCustomer.cname.$error.minlength">Minimum length required is 5</span>
+            <span class="error" ng-show="frmCustomer.$dirty && frmCustomer.cname.$error.maxlength">Minimum length required is 15</span>
+        </div>
+        <div>
+            <label for="email">E-mail address</label>
+            <input type="email" ng-model="customerModel.Email" name="cemail" placeholder="" required />
+            <span class="error" ng-show="(frmCustomer.$dirty ||submitted) && frmCustomer.email.$error.required">EmailId is Required!</span>
+            <span class="error" ng-show="(frmCustomer.$dirty ||submitted) && frmCustomer.$error.email">Invalid EmailId!</span>
+        </div>
+        <div class="btn">
+            <input type="submit" value="Save" ng-click="saveCustomer(customerModel.Id)" ng-disabled="frmCustomer.$invalid">
+
+        </div>
+    </form>
+    <hr />
+
+
+</div>

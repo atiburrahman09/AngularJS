@@ -1,0 +1,10 @@
+c:\users\lmxdev\documents\visual studio 2013\Projects\Crud\Crud.Data\bin\Debug\Crud.Data.dll
+c:\users\lmxdev\documents\visual studio 2013\Projects\Crud\Crud.Data\bin\Debug\Crud.Data.pdb
+c:\users\lmxdev\documents\visual studio 2013\Projects\Crud\Crud.Data\obj\Debug\Crud.Data.csprojResolveAssemblyReference.cache
+c:\users\lmxdev\documents\visual studio 2013\Projects\Crud\Crud.Data\obj\Debug\Crud.Data.dll
+c:\users\lmxdev\documents\visual studio 2013\Projects\Crud\Crud.Data\obj\Debug\Crud.Data.pdb
+C:\Users\lmxDev\Documents\Visual Studio 2013\Projects\Crud\Crud.Data\bin\Debug\Crud.Data.dll.config
+C:\Users\lmxDev\Documents\Visual Studio 2013\Projects\Crud\Crud.Data\bin\Debug\EntityFramework.dll
+C:\Users\lmxDev\Documents\Visual Studio 2013\Projects\Crud\Crud.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lmxDev\Documents\Visual Studio 2013\Projects\Crud\Crud.Data\bin\Debug\EntityFramework.xml
+C:\Users\lmxDev\Documents\Visual Studio 2013\Projects\Crud\Crud.Data\bin\Debug\EntityFramework.SqlServer.xml
